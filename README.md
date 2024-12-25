@@ -4,5 +4,5 @@ As a skilled Java Fullstack developer, I am dedicated to transforming ideas into
 
 - 🔭 I’m currently working as Java Developer at <a href="https://www.linuxlab.pro/">Linuxlab</a>.
 - 🌱 I’m currently learning new technologies, frameworks and DSA.
-- 📫 How to reach me: mokham0524@gmail.com
+- 📫 How to reach me: nanmokham101@gmail.com
 - ⚡ Fun fact: Listen to music and watching movie
